@@ -5,3 +5,5 @@
 使用node+express搭建服务器，使用cors解决跨域问题，使用formidable实现上传图片的功能，使用nodemon在本地调试服务器自动刷新
 
 本地运行服务器：`$ nodemon ./initApi.js`
+
+在login.js文件中有设置前端进入后台管理页面的密码
